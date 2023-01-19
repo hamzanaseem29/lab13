@@ -4,6 +4,7 @@ public class AddNumbers {
         int number = 10;
         int sum = addNumbers(number);
         System.out.println("Sum = " + sum);
+        System.out.println("Sum = " + sum);
     }
 
     public static int addNumbers(int num) {
